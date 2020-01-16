@@ -22,8 +22,6 @@ body {
     justify-content: flex-end;
 }
 
-/*--- header ---*/
-
 .header {
     background-image: url('images/birthday.jpg');
     background-size: cover;
